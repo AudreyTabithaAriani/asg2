@@ -16,4 +16,4 @@
 ![patrick](https://github.com/AudreyTabithaAriani/asg2/blob/master/screenshot/patrick.png)
 
 # Stella
-![stella]([http://url/to/img.png](https://github.com/AudreyTabithaAriani/asg2/blob/master/screenshot/stella.png))
+![stella](http://url/to/img.png](https://github.com/AudreyTabithaAriani/asg2/blob/master/screenshot/stella.png)
